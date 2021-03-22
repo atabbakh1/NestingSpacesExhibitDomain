@@ -1,8 +1,6 @@
 # Nesting Spaces Exhibit
 
-## Visit at: 
-
-http://nestingspacesexhibit.com/
+## Visit at: http://nestingspacesexhibit.com/
 
 A virtual exhibit displaying student work from Pratt Instutute undergraduate School of Architecture. The studio was taught by both Rebert Lee Brackett III and Duks Koschitz in fall 2020. 
 
